@@ -1,0 +1,14 @@
+.hero{
+
+    background-image: url('/images/whiteboard-hero.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: max-content;
+}
+
+#TEMP{
+    font-family: 'Delius', cursive;
+font-family: 'East Sea Dokdo', cursive;
+font-family: 'Permanent Marker', cursive;
+font-family: 'Swanky and Moo Moo', cursive;
+}
