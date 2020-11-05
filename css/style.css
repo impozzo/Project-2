@@ -1,9 +1,17 @@
+body{
+}
+
+h1, h2, h3, h4, h5, h6{
+    font-family: 'Permanent Marker', cursive;
+}
+
+
 .hero{
 
     background-image: url('/images/whiteboard-hero.jpg');
     background-size: cover;
     background-repeat: no-repeat;
-    min-height: max-content;
+    min-height: min-content;
 }
 
 #TEMP{
@@ -15,4 +23,12 @@ font-family: 'Swanky and Moo Moo', cursive;
 
 .permanent-marker{    
 font-family: 'Permanent Marker', cursive;
+}
+
+.font-size-16{
+    font-size: 16px;
+}
+
+.jumbotron-height{
+
 }
